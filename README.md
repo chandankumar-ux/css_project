@@ -1,2 +1,2 @@
 # css_project
-i am going for css project
+this is for css project
